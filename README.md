@@ -1,5 +1,5 @@
 ### Setup 
-1. Fork code to your git
+1. Fork(or not) code to your git
 2. Pull code to local
 3. cd directory
 4. Run script: chmod +x scripts/*.bash
